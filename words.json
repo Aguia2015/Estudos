@@ -1,0 +1,34 @@
+[
+    {
+      "nome":"João Silva",
+      "cpf":"444.111.777-00",
+      "rg":"44.66.55.00-1",
+      "nascimento":"28/06/1994",
+      "endereco":[
+        {
+          "rua":"Av. Marechal Tito",
+          "numero":155,
+          "bairro":"Jardim do Vale",
+          "cep":"08108-145",
+          "cidade":"São Paulo",
+          "estado":"SP"
+        }
+      ],
+      "contato":[
+        {
+          "telefone":"2222-2222",
+          "celular":"92222-2222",
+          "email":"joaosilva@gmail.com"
+        }
+      ],
+      "renda":"5.000",
+      "foto":"joao_silva.jpg",
+      "conta":[
+        {
+          "banco":"Bradesco",
+          "agencia":"05",
+          "numero_da_conta":"0102-1"
+        }
+      ]
+    }
+  ]
